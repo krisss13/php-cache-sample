@@ -1,0 +1,22 @@
+{
+    "name": "krisss/printful",
+    "description": "Tehnical Task (v2.2)",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "7.7.x-dev",
+        "phpunit/phpunit": "10.3.x-dev"
+    },
+    "license": "-",
+    "autoload": {
+        "psr-4": {
+            "Krisss\\Printful\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "krisss13",
+            "email": "kristaps.kalvans1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
